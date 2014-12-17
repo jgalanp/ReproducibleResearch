@@ -1,11 +1,41 @@
-# History files
-.Rhistory
+# R and RStudio
+*.Rhistory
+*.Rdata
+*.Rproj.user/
+*.Rout
 
-# Example code in package build process
-*-Ex.R
+# LaTex
+*.gz
+*.pdf
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.dvi
+*.ps
+*.eps
 
-# R data files from past sessions
-.Rdata
+# BibTex
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
 
-# RStudio files
-.Rproj.user/
+#Other Latex
+*.fdb_latexmk
+*.synctex.gz
+*.pdfsync
+
+# MAC
+.DS_Store
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
