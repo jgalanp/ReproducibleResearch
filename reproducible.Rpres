@@ -136,6 +136,7 @@ An R & RStudio based workflow
 - Storing/sharing
   - Git (Github/BitBucket/GitLab)
   - Dropbox/GDrive (Just as a complement)
+- Some commands/tools: see table 2.1 (p. 26)
 
 One package to rule them all
 ========================================================
