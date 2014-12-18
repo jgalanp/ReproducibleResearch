@@ -15,10 +15,10 @@ Outline
 - Reproducible Research
   - Phases
   - Golden rules
-- Tools
-  - RStudio
+- R & RStudio based workflow
   - Knitr
-- Other tools
+  - knitr code chunks
+- References
 - Examples
 
 Motivation
@@ -234,7 +234,8 @@ References
 - Top Ten Reasons To Not Share Your Code (and why you should anyway) - Randall J. LeVeque: http://www.siam.org/news/news.php?id=2064
 - RStudio: http://www.rstudio.com/
 - Knitr: http://yihui.name/knitr/
-- Pandoc: http://johnmacfarlane.net/pandoc/
+- **Pandoc:** http://johnmacfarlane.net/pandoc/
+- **Repmis package:** http://cran.r-project.org/web/packages/repmis/index.html
 - IPython Notebook: http://ipython.org/notebook.html
 
 
